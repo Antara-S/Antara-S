@@ -1,32 +1,21 @@
-# Hi there 👋, 
-##Myself Antara Biswas,
-#### Web-Developer
+<h1 align="center">Hi 👋, I'm Antara,</h1>
+<h2 align="center">Web-Developer</h2>
+<h3 align="center">A passionate Backend developer from Bangladesh</h3>
 ![Web-Developer](https://avatars.githubusercontent.com/u/67925280?s=400&u=852abbd7b6639eb445b9332efd0422c22606330c&v=4)
+
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: C/Java/Python/ JS / HTML / CSS
 
 
-**Antara-S/Antara-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<h1 align="center">Hi 👋, I'm Antara,</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antara-s&label=Profile%20views&color=0e75b6&style=flat" alt="antara-s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antara-s" alt="antara-s" /></a> </p>
 
+## Here are some ideas to get you started:
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **github**
