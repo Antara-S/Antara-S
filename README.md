@@ -1,10 +1,12 @@
 # Hi there 👋, 
 ##Myself Antara Biswas,
 #### Web-Developer
+![Web-Developer](https://avatars.githubusercontent.com/u/67925280?s=400&u=852abbd7b6639eb445b9332efd0422c22606330c&v=4)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: C/Java/Python/ JS / HTML / CSS
+
 
 **Antara-S/Antara-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
