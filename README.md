@@ -1,6 +1,7 @@
-<h1 align="left">Hi 👋, I'm Antara,</h1>
-<h2 align="left">Web-Developer</h2>
-<h3 align="left">A passionate Backend developer from Bangladesh</h3>
+<h1 align="left">Hi 👋,</h1>
+                       <h1>Myself Antara Biswas,</h1>
+                       <h2 align="left">Web-Developer</h2>
+                       <h3 align="left">A passionate Backend developer from Bangladesh</h3>
   
 ![I am GitHub Readme Generator's creator](https://avatars.githubusercontent.com/u/67925280?v=4)
 
@@ -13,8 +14,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antara-s&label=Profile%20views&color=0e75b6&style=flat" alt="antara-s" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antara-s&label=Profile%20views&color=0e75b6&style=flat" alt="antara-s" /> </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antara-s" alt="antara-s" /></a> </p>
 
 ## Here are some ideas to get you started:
