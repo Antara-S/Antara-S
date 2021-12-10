@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Antara,</h1>
-<h2 align="center">Web-Developer</h2>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
-![Web-Developer](https://avatars.githubusercontent.com/u/67925280?s=400&u=852abbd7b6639eb445b9332efd0422c22606330c&v=4)
+<h1 align="left">Hi 👋, I'm Antara,</h1>
+<h2 align="left">Web-Developer</h2>
+<h3 align="left">A passionate Backend developer from Bangladesh</h3>
+  
+![I am GitHub Readme Generator's creator](https://avatars.githubusercontent.com/u/67925280?v=4)
+
 
 
 
